@@ -2,32 +2,36 @@
 
 
 <h1 align="center">Hi 👋, I'm Jyoti Prakash Mallik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  frontend developer from India</h3>
 
+<br/>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&random=false&width=985&lines=+++++++I'm++Jyoti+Prakash+%2C+As+a+passionate+front-end+developer;+I+bring+creativity+and++technical+expertise+to+The+digital+realm.+" alt="Typing SVG" /></a>
+<div>
 
+<div align="center">
+  
+🔭 I’m currently working on **something cool**
 
-## Fun Fact 🎈:
+ 
+ 🌱 I’m currently learning **MEAN**
 
-<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+💬 Ask me about **Front-end Development**
 
-• 🔭 I’m currently working on <b>something cool!</b> <br/>
-• 👯 I’m looking to collaborate on cool project.<br/>
-• 💬 Ask me about <b>Front-end Development</b>.<br/>
-• 🌱 I’m currently learning **MEAN STACK**<br/>
-• 📫 Reach me out jyotiprakashmallik22@gmail.com <br/>
-• 👨‍💻 My Website [https://devjp.netlify.app/](https://devjp.netlify.app/)<br/>
-</span>
+👨‍💻 My Website **[https://devjp.netlify.app/](https://devjp.netlify.app/)**
 
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+ </div>
+ <div align="center">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/https://codepen.io/jyoti-prakash-mallik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jyoti-prakash-mallik" height="30" width="40" /></a>
 <a href="https://twitter.com/thorenjp22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thorenjp22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/jyoti-prakash-mallik-426986175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jyoti-prakash-mallik-426986175" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@thorenjp?si=gssgvabbls4uw9hv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@thorenjp?si=gssgvabbls4uw9hv" height="30" width="40" /></a>
 </p>
-
+ </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
