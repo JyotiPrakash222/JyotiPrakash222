@@ -85,3 +85,6 @@
 <br />
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+<br />
+<img src="https://media.giphy.com/media/IguKwnlfifXdGPTHxa/giphy.gif" width="600" height="450" />
+
