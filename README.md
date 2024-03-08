@@ -4,17 +4,19 @@
 <h1 align="center">Hi 👋, I'm Jyoti Prakash Mallik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+## Fun Fact 🎈:
 
+<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-- 🔭 I’m currently working on **E Commerce project**
+• 🔭 I’m currently working on <b>something cool!</b> <br/>
+• 👯 I’m looking to collaborate on cool project.<br/>
+• 💬 Ask me about <b>Front-end Development</b>.<br/>
+• 🌱 I’m currently learning **MEAN STACK**<br/>
+• 📫 Reach me out jyotiprakashmallik22@gmail.com <br/>
+• 👨‍💻 My Website [https://devjp.netlify.app/](https://devjp.netlify.app/)<br/>
+</span>
 
-- 🌱 I’m currently learning **MEAN**
-
-- 👨‍💻 All of my projects are available at [https://devjp.netlify.app/](https://devjp.netlify.app/)
-
-- 💬 Ask me about **Frontend Development**
-
-- 📫 How to reach me **jyotiprakashmallik22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,3 +47,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotiprakash222&show_icons=true&locale=en" alt="jyotiprakash222" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiprakash222&" alt="jyotiprakash222" /></p>
+
+<hr />
+
+### **Thanks for checking out my GitHub Profile!** 🙏
+
+<br />
+
+![](https://ForTheBadge.com/images/badges/built-with-love.svg)
