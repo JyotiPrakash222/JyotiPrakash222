@@ -1,16 +1,14 @@
-<img src="" width="3000" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b76118zunlapd0txliej26jre6eacvhdkz95zsk3m4xxd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="4000" height="350" />
 
 
 <h1 align="center">Hi 👋, I'm Jyoti Prakash Mallik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotiprakash222" alt="jyotiprakash222" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thorenjp22" target="blank"><img src="https://img.shields.io/twitter/follow/thorenjp22?logo=twitter&style=for-the-badge" alt="thorenjp22" /></a> </p>
 
 - 🔭 I’m currently working on **E Commerce project**
 
-- 🌱 I’m currently learning **Angular,,React etc**
+- 🌱 I’m currently learning **MEAN**
 
 - 👨‍💻 All of my projects are available at [https://devjp.netlify.app/](https://devjp.netlify.app/)
 
