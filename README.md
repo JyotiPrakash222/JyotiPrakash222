@@ -24,7 +24,7 @@
 
  </div>
  <div align="center">
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">🎭 Connect with me 🎭</h2>
 <p align="center">
 <a href="https://codepen.io/https://codepen.io/jyoti-prakash-mallik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jyoti-prakash-mallik" height="30" width="40" /></a>
 <a href="https://twitter.com/thorenjp22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thorenjp22" height="30" width="40" /></a>
