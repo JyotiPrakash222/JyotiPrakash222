@@ -28,9 +28,12 @@
 <p align="center">
 <a href="https://codepen.io/https://codepen.io/jyoti-prakash-mallik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jyoti-prakash-mallik" height="30" width="40" /></a>
 <a href="https://twitter.com/thorenjp22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thorenjp22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/jyoti-prakash-mallik-426986175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jyoti-prakash-mallik-426986175" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@thorenjp?si=gssgvabbls4uw9hv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@thorenjp?si=gssgvabbls4uw9hv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jyoti-prakash-mallik-426986175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jyoti-prakash-mallik-426986175" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/thoren.jp?igsh=MTZkNDR6anZ3dG9hOQ%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thorenjp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@thorenjp?si=gssgvabbls4uw9hv" height="30" width="40" /></a>
 </p>
+
+  
  </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
