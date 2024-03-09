@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b76118zunlapd0txliej26jre6eacvhdkz95zsk3m4xxd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="4000" height="310" />
 
-
 <h1 align="center">Hi 👋, I'm Jyoti Prakash Mallik</h1>
 <h3 align="center">A passionate  frontend developer from India</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JyotiPrakash222.JyotiPrakash222" />
 
 <br/>
 <div align="center">
