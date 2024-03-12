@@ -18,7 +18,7 @@
 
 💬 Ask me about **Front-end Development**
 
-👨‍💻 My Website **[https://devjp.netlify.app/](https://devjp.netlify.app/)**
+👨‍💻 My Website **[https://devjp.netlify.app/](https://thorenjp.netlify.app/)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
